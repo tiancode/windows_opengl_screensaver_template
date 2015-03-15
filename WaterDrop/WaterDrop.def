@@ -1,0 +1,5 @@
+NAME WaterDrop.scr
+
+EXPORTS
+	ScreenSaverProc
+	ScreenSaverConfigureDialog
